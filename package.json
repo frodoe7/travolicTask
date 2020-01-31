@@ -1,0 +1,25 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.19.2",
+    "btoa": "^1.2.1",
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "perfy": "^1.1.5",
+    "underscore": "^1.9.2",
+    "validate": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
